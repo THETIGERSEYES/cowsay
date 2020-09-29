@@ -1,3 +1,2 @@
-
-const myInformations = require ('./information.js');
+constmyInformations = require ('./information.js');
 myInformations ();
